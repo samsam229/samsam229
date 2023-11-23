@@ -1,6 +1,7 @@
+![MasterHead](https://iutparis-seine.u-paris.fr/wp-content/uploads/sites/3/2022/03/UniversiteParisCite_IUTParis-RdS.jpg)
 <h1 align="center">Hi 👋, I'm DZIRI Samy</h1>
 <h3 align="center">Student BUT informatique Second year passionate about programming, computer networks and security, looking to acquire new skills to become a cybersecurity engineer.</h3>
-
+<img align="right" alt="Coding" width="500" src="https://beecut.com/wp-content/uploads/2019/08/mp4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsam229&label=Profile%20views&color=0e75b6&style=flat" alt="samsam229" /> </p>
 
 
