@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://x.com/samy2223329083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/samy2223329083" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samydziri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samydziri/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/samy.sam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samy.sam22/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samy.sam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samy.sam22/" height="30" width="40" /></a>
 <a href="https://discord.gg/samy722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samy722" height="30" width="40" /></a>
 </p>
 
